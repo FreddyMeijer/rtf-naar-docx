@@ -4,7 +4,7 @@ In 2018 gaf Centric aan dat het om verschillende redenen verstandig is om van RT
 
 In dit voorbeeld gaan we onderstaande lijst omzetten:
 
-<img src='/home/freddy/Downloads/rtf-naar-docx/img/Om_te_zetten_bestanden.png' alt = 'Een windows mappenstructuur met om te zetten rtf bestanden'>
+<img src='./img/Om_te_zetten_bestanden.png' alt = 'Een windows mappenstructuur met om te zetten rtf bestanden'>
 
 ## Installatie
 
@@ -16,16 +16,16 @@ Er is niet direct een installatie nodig. Het belangrijkste is het templatebestan
 
 2. Dubbelklik op de tekst *DUBBELKLIK HIER*. Zorg er wel voor dat macro's ingeschakeld zijn door op *inhoud inschakelen* te klikken in de waarschuwingsbalk als je die krijgt.
 
-    <img src='/home/freddy/Downloads/rtf-naar-docx/img/dubbelklik_hier.png' alt = 'Een eerste blik op de template'>
+    <img src='./img/dubbelklik_hier.png' alt = 'Een eerste blik op de template'>
 
 3. Ga naar het pad waar de RTF documenten staan die omgezet moeten worden en klik op *OK*
 
-    <img src='/home/freddy/Downloads/rtf-naar-docx/img/kies_map.png' alt = 'Een venster om een map te kiezen'>
+    <img src='./img/kies_map.png' alt = 'Een venster om een map te kiezen'>
 
 4. Wacht rustig af. Onder in het scherm zie je bij welk bestand het systeem is. Als dat scherm verdwijnt is het systeem klaar (er staat nu weer Pagina 1 van 1 en 2 van 2 woorden)
 
-    <img src='/home/freddy/Downloads/rtf-naar-docx/img/conversie_bezig.png' alt = 'Conversie bezig'>
+    <img src='./img/conversie_bezig.png' alt = 'Conversie bezig'>
 
 In stap 3 heb je een map gekozen waarin de RTF bestanden staan. In diezelfde map zijn nu de DOCX bestanden geplaatst:
 
-<img src='/home/freddy/Downloads/rtf-naar-docx/img/omzetting_voltooid.png' alt = 'Conversie klaar'>
+<img src='./img/omzetting_voltooid.png' alt = 'Conversie klaar'>
