@@ -10,6 +10,10 @@ In dit voorbeeld gaan we onderstaande lijst omzetten:
 
 Er is niet direct een installatie nodig. Het belangrijkste is het templatebestand *Converteer van RTF naar DOCX.docm*. Hiermee kan je aan de slag. Mocht je de code willen aanpassen, vind je in dezelfde map ook de broncode terug (broncode.bas).
 
+Je kan de code downloaden als ZIP bestand. Deze pak je vervolgens uit. 
+
+<img src = './img/code_downloaden.png' alt = 'Downloaden zip bestand'>
+
 ## Handleiding
 
 1. In de map template van deze repository staat het bestand *Converteer van RTF naar DOCX.docm*. Open dit bestand.
